@@ -1,0 +1,1 @@
+prepare file adj_matrix with adjacency matrix of graph, infinity is i
